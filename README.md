@@ -42,7 +42,7 @@ Add a link to the deployed demo here (Netlify / Vercel / Surge).
 1. Clone the repo:
 
 bash
-git clone https://github.com/<your-username>/tourism-management-app.git
+git clone [https://github.com/<your-username>/tourism-management-app.git](https://github.com/Souvik079/Travel_Mangement.git)
 cd tourism-management-app
 
 
